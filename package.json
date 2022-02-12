@@ -1,0 +1,25 @@
+{
+  "name": "tic-tac-toe-cli",
+  "version": "1.0.0",
+  "description": "Simple tic-tac-toe game using nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhaji9/tic-tac-toe-cli.git"
+  },
+  "author": "Sambhaji Mane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambhaji9/tic-tac-toe-cli/issues"
+  },
+  "homepage": "https://github.com/sambhaji9/tic-tac-toe-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0"
+  }
+}
